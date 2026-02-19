@@ -11,7 +11,7 @@ My journey in optimizing security-focused business operations has led me to deve
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://https://github.com/emilykamau/Detection-Lab">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/emilykamau/Detection-Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -59,5 +59,5 @@ My journey in optimizing security-focused business operations has led me to deve
 </div>
 
 ## Projects
-- <a href="https://https://github.com/emilykamau/Detection-Lab">Detection Lab</a>
+- <a href="https://github.com/emilykamau/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
